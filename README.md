@@ -1,5 +1,13 @@
 # Pomodoro Clock
 
+SPA developed with [Vue.js](https://vuejs.org/) using [VueCLI](https://cli.vuejs.org/).
+
+## Libraries
+
+* Most of the styling was made using [Vuetify](https://vuetifyjs.com/en/).
+* Some basic styling was made using [Sass](https://sass-lang.com/)
+
+
 ## Project setup
 ```
 npm install
